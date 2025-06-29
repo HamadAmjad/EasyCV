@@ -1,16 +1,22 @@
-# myid_pdf_generator
+# EasyCV - Resume Builder App
 
-A new Flutter project.
+A modern, easy-to-use Flutter app for creating beautiful, professional resumes from pre built templates. 
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+✅ Create, edit, and preview resumes using **pre built templates**.  
+✅ Generate high-quality PDF versions of your resume.  
+✅ Add and manage resume sections with an intuitive form interface.    
+✅ Built-in onboarding screens for first-time users.  
+✅ Modern resume templates.
+✅ Supports dynamic addition of skills, education, experience, languages, certifications, and more.  
+✅ Interactive preview images of templates.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Home Page | Template Preview | Form Page |
+|-----------|------------|------------|
+| ![Home](assets/screenshots/home.png) | ![Preview](assets/screenshots/preview.png) | ![Form](assets/screenshots/form.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Created By
+- hamadamjad024@gmail.com
